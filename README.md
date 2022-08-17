@@ -1,2 +1,2 @@
 # AluraBook
-Projeto feito durante o curso de responsividade de MobileFirst  Alura
+Projeto feito durante o curso de responsividade e MobileFirst da  Alura.
